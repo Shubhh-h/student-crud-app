@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database and logs
+students.db
+*.db
+*.log
+
+# Editor / OS
+.vscode/
+.DS_Store
+
+# Secrets
+.env
